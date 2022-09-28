@@ -6,6 +6,9 @@ my personal projects.
 
 ## Employment
 
+### GBL Systems Software Engineer I (2021 - Current)
+Currently employed at GBL Systems corporation located in Camarillo CA as a Software engineer. Most of my experience has been in Cloud Native technologies. Specifically, in the AWS Cloud platform.
+
 ### Embedded Peer Educator (2021)
 
 In this role I served as a peer tutor for other Computer Science students. I was embedded in COMP-151 Data structures and program design, meaning I attended class
