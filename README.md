@@ -1,13 +1,25 @@
 # Alex Sullivan
 
-Hi, My name is Alex Sullivan and I am a recent graduate from California State University Channel Islands. I graduated in December of 2021 with a computer
-science degree. Feel free to take a look at some of the projects here. Some are older school projects while others are more recent examples of
-my personal projects.
+Software Engineer with 3+ YOE in the DOD space.
 
 ## Employment
 
-### GBL Systems Software Engineer I (2021 - Current)
-Currently employed at GBL Systems corporation located in Camarillo CA as a Software engineer. Most of my experience has been in Cloud Native technologies. Specifically, in the AWS Cloud platform.
+### GBL Systems Software Engineer - Camarillo (2021 - Current)
+- Technologies:
+  - Java 8/ 17, JADE framework, Drools rules engine
+  - Python, FastAPI, django, Dash
+  - Bitbucket/ Jira
+- Experience working in distributed Real time systems utilizing the JADE Java framework.
+- Experince working with both Java 8 and 17, personally migrated over 1M lines of code from Java 8 to 17 including deprecated libraries.
+  - Lead to a significant decrease in CVEs, increasing the code bases security posture and allowing deployment on secure networks.
+- Experience developing cloud native applications within AWS utilizing the following technologies:
+  - Amplify
+  - DynamoDB
+  - Lambda
+  - S3
+  - Bedrock
+- Successfully Completed AWS Well architected review to make GBL Systems a part of the Amazon Partner network
+- Experience working with Terraform to deploy various microservices to AWS Elastic Container Registry and AWS Elaastic Container Service.
 
 ### Embedded Peer Educator (2021)
 
@@ -15,12 +27,10 @@ In this role I served as a peer tutor for other Computer Science students. I was
 and worked with the professor in order to suppor students learning. Further I tutored students one-on-one in the following courses: Computer Networking, Programming
 Languages, Calculus, and UNIX systems programming.
 
-
-## Projects
-
 ## Contact me
 
 - [LinkedIn](https://www.linkedin.com/in/alexander-sullivan-93416b192/)
+- [Sign up for my newsletter](https://newsletter.alex-sullivan.com)
 - Send me an email: A.Sullivan219@protonmail.com
 
 <!---
