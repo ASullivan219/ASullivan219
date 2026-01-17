@@ -1,6 +1,6 @@
 # Hey, I'm Alex Sullivan
 
-Site Reliability / Software Engineer based in Los Angeles. Currently working on quantum computing infrastructure at HRL, previously building systems for military test ranges at GBL Systems.
+Site Reliability / Software Engineer based in Los Angeles. Currently working on quantum computing infrastructure at HRL, previously building systems in collaboration with the navy (NAWCWD) at GBL Systems.
 
 > **Note:** I've moved my repos to my self-hosted git instance at [git.alex-sullivan.com/asullivan](https://git.alex-sullivan.com/asullivan). This GitHub will stick around but won't see much activity.
 
