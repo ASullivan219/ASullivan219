@@ -1,39 +1,35 @@
-# Alex Sullivan
+# Hey, I'm Alex Sullivan
 
-Software Engineer with 3+ YOE in the DOD space.
+Site Reliability / Software Engineer based in Los Angeles. Currently working on quantum computing infrastructure at HRL, previously building systems for military test ranges at GBL Systems.
 
-## Employment
+> **Note:** I've moved my repos to my self-hosted git instance at [git.alex-sullivan.com/asullivan](https://git.alex-sullivan.com/asullivan). This GitHub will stick around but won't see much activity.
 
-### GBL Systems Software Engineer - Camarillo (2021 - Current)
-- Technologies:
-  - Java 8/ 17, JADE framework, Drools rules engine
-  - Python, FastAPI, django, Dash
-  - Bitbucket/ Jira
-- Experience working in distributed Real time systems utilizing the JADE Java framework.
-- Experince working with both Java 8 and 17, personally migrated over 1M lines of code from Java 8 to 17 including deprecated libraries.
-  - Lead to a significant decrease in CVEs, increasing the code bases security posture and allowing deployment on secure networks.
-- Experience developing cloud native applications within AWS utilizing the following technologies:
-  - Amplify
-  - DynamoDB
-  - Lambda
-  - S3
-  - Bedrock
-- Successfully Completed AWS Well architected review to make GBL Systems a part of the Amazon Partner network
-- Experience working with Terraform to deploy various microservices to AWS Elastic Container Registry and AWS Elaastic Container Service.
+## What I'm Working On
 
-### Embedded Peer Educator (2021)
+**HRL - Quantum Spin Qubits** (2025 - Present)
+- Building maintenance tracking systems for Bluefors cryo dilution refrigerators
+- Data pipelines for real-time monitoring of cryogenic systems
+- Elastic Stack integrations for proactive alerting
 
-In this role I served as a peer tutor for other Computer Science students. I was embedded in COMP-151 Data structures and program design, meaning I attended class
-and worked with the professor in order to suppor students learning. Further I tutored students one-on-one in the following courses: Computer Networking, Programming
-Languages, Calculus, and UNIX systems programming.
+**Previously at GBL Systems** (2021 - 2025)
+- Full stack development with Python/FastAPI and React for Navy test ranges
+- Led a Java 8 to 17 migration on a 1M+ line codebase
+- Built distributed systems for Electronic Warfare mission planning
+- Took the team through an AWS Well-Architected Review
 
-## Contact me
+## Tech I Use
 
-- [LinkedIn](https://www.linkedin.com/in/alexander-sullivan-93416b192/)
-- [Sign up for my newsletter](https://newsletter.alex-sullivan.com)
-- Send me an email: A.Sullivan219@protonmail.com
+**Languages:** Python, Java, Go, TypeScript/JavaScript
 
-<!---
-ASullivan219/ASullivan219 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Frameworks:** FastAPI, React, Vue, HTMX
+
+**Infrastructure:** Docker, Terraform, Jenkins, AWS (Lambda, ECS, DynamoDB, Bedrock)
+
+**Data:** PostgreSQL, MongoDB, Elasticsearch, Logstash, Kibana
+
+## Links
+
+- [git.alex-sullivan.com/asullivan](https://git.alex-sullivan.com/asullivan)
+- [linkedin.com/in/asullivan219](https://linkedin.com/in/asullivan219)
+- [newsletter.alex-sullivan.com](https://newsletter.alex-sullivan.com)
+- a.sullivan219@protonmail.com
