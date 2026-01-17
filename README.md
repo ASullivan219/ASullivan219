@@ -31,5 +31,4 @@ Site Reliability / Software Engineer based in Los Angeles. Currently working on 
 
 - [git.alex-sullivan.com/asullivan](https://git.alex-sullivan.com/asullivan)
 - [linkedin.com/in/asullivan219](https://linkedin.com/in/asullivan219)
-- [newsletter.alex-sullivan.com](https://newsletter.alex-sullivan.com)
 - a.sullivan219@protonmail.com
